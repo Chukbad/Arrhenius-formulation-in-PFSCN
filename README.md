@@ -297,7 +297,6 @@ This research has been published/presented at:
 
 ### Experience Highlights
 - **Tesla** - Global Supply Manager Intern, Supplier Industrialization Engineer Intern
-- **Six Sigma Green Belt** Certified
 - **AWS Cloud Practitioner** Certified
 
 ---
@@ -323,12 +322,6 @@ If you use this code in your research, please cite:
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
